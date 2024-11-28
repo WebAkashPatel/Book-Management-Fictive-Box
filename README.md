@@ -1,6 +1,6 @@
-<!-- Book management system  developed by Akash Patel
+Book management system  developed by Akash Patel
 Mo. Number - 7828676830
--->
+
 
 Step 1 install PHP by Brew(FOR MAC ONLY, Skip this if you have alredy installed) $ brew install php It will install php 8.0
 
